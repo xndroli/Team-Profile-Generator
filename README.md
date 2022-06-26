@@ -2,13 +2,11 @@
 
 ## Description
 
-This week, I'll build a portfolio page, which I will add to as the course progresses.
+This week, I'll build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Because testing is key to making code maintainable, I will also write unit tests for each part of my code and ensure that it passes all of them.
 
-A portfolio of work can showcase my skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights my strongest work as well as the thought processes behind it. Those who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies.
+Because this application is not deployed, I will also provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing.
 
-With these points in mind, in this Challenge I’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. I'll get to practice your new skills while creating something that you'll use during your job search. It’s a win-win that you'll likely be grateful for in the future!
-
-[See Deployed Application](https://xndroli.github.io/portfolio/)
+[See Application Demo](https://xndroli.github.io/portfolio/)
 
 ## Table of Contents
 
@@ -18,7 +16,7 @@ With these points in mind, in this Challenge I’ll set yourself up for future s
 * [Mock-Up](#Mock-Up)
 * [Review](#Review)
 * [Demo](#Demo)
-* [Link-to-Deployed-Application](#Link-to-Deployed-Application)
+* [Link-to-Application-Demo](#Link-to-Application-Demo)
 
 
 ## User Story
@@ -67,9 +65,9 @@ I submitted the following for review:
 
 ![Demo Video](https://github.com/xndroli/portfolio/blob/08a5547f461d045a18944aa7a713356879b2ea39/assets/images/portfolio_screenshot.png "Generator Demo Video")
 
-## Link to Deployed Application
+## Link to Application Demo
 
-[Deployed Application](https://xndroli.github.io/horizon-code-refactor/)
+[Link-to-Application-Demo](https://xndroli.github.io/horizon-code-refactor/)
 
 ---
 © 2022 xndroli. Confidential and Proprietary. All Rights Reserved.
