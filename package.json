@@ -1,29 +1,29 @@
 {
-  "name": "team-profile-generator",
-  "version": "1.0.0",
-  "description": "This week, I'll build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Because testing is key to making code maintainable, I will also write unit tests for each part of my code and ensure that it passes all of them.",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xndroli/Team-Profile-Generator.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xndroli/Team-Profile-Generator/issues"
-  },
-  "homepage": "https://github.com/xndroli/Team-Profile-Generator#readme",
-  "dependencies": {
-    "inquirer": "^9.0.0"
-  },
-  "devDependencies": {
-    "jest": "^28.1.1"
-  }
+	"name": "team-profile-generator",
+	"version": "1.0.0",
+	"description": "This week, I'll build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Because testing is key to making code maintainable, I will also write unit tests for each part of my code and ensure that it passes all of them.",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/xndroli/Team-Profile-Generator.git"
+	},
+	"keywords": [],
+	"author": "xndroli",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/xndroli/Team-Profile-Generator/issues"
+	},
+	"homepage": "https://github.com/xndroli/Team-Profile-Generator#readme",
+	"dependencies": {
+		"inquirer": "^9.0.0"
+	},
+	"devDependencies": {
+		"jest": "^28.1.1"
+	}
 }
