@@ -121,15 +121,7 @@ to open the generated HTML in your browser.
 
 ## ⛏️ Built With <a name = "built_with"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Mongoose.js](https://mongoosejs.com/) - Object Data Modeling
-- [Express.js](https://expressjs.com/) - Server Framework
-- [React.js](https://reactjs.org/) - Front End Library
 - [Node.js](https://nodejs.org/) - Server Environment
-
-- [GraphQL](https://graphql.org/) - Data Query and Manipulation
-- [Apollo Server](https://www.apollographql.com/) - GraphQL Server
-- [Heroku](https://www.heroku.com/) - Platform As A Service (PaaS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
