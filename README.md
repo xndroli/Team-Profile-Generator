@@ -77,7 +77,7 @@ THEN I exit the application, and the HTML is generated
 
 As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
 
-[![OOP: Team Profile Generator](./assets/images/googlebooks-app-demo-01.gif)](https://github.com/xndroli/Team-Profile-Generator/)
+[![OOP: Team Profile Generator](./assets/images/oop-TeamProfileGenerator-demo.png)](https://github.com/xndroli/Team-Profile-Generator/)
 
 [Link to Demo]()
 
