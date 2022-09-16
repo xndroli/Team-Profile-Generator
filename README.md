@@ -1,34 +1,57 @@
-# Team-Profile-Generator
+<a name="readme-top"></a>
 
-## Description
+<h3 align="center">OOP: Team Profile Generator </h3>
+
+<div align="center">
+
+[![Node.js](https://img.shields.io/badge/nodejs-yellow.svg)](https://nodejs.org/)
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Repo Size](https://img.shields.io/github/repo-size/xndroli/Team-Profile-Generator.svg)](https://github.com/xndroli/Team-Profile-Generator/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/xndroli/Team-Profile-Generator.svg)](https://github.com/xndroli/Team-Profile-Generator/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xndroli/Team-Profile-Generator.svg)](https://github.com/xndroli/Team-Profile-Generator/pulls)
+
+</div>
+
+---
+
+## 🔗 Description <a name = "description"></a>
 
 This week, I'll build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. Because testing is key to making code maintainable, I will also write unit tests for each part of my code and ensure that it passes all of them.
 
 Because this application is not deployed, I will also provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing.
 
-[See Application Demo](https://xndroli.github.io/portfolio/)
+[Link to Demo]()
 
-## Table of Contents
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 Table of Contents
 
 - [Description](#description)
-- [User-Story](#User-Story)
-- [Acceptance-Criteria](#Acceptance-Criteria)
-- [Mock-Up](#Mock-Up)
-- [Review](#Review)
-- [Demo](#Demo)
-- [Link-to-Application-Demo](#Link-to-Application-Demo)
+- [User Story](#user_story)
+- [Acceptance Criteria](#acceptance_criteria)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technology](#built_with)
+- [Authors](#authors)
+- [Contributing](../CONTRIBUTING.md)
 
-## User Story
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-```
+## 💡 User Story <a name = "user_story"></a>
+
+```md
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 ```
 
-## Acceptance Criteria
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-```
+## ⛓️ Acceptance Criteria <a name = "acceptance_criteria"></a>
+
+```md
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for my team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input
@@ -48,26 +71,76 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-## Mock-Up
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[![Mock-Up](./assets/images/oop-TeamProfileGenerator-demo.png)](https://github.com/xndroli/Team-Profile-Generator/)
+## 🎞️ Demo <a name = "demo"></a>
 
-## Review
+As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
 
-I submitted the following for review:
+[![OOP: Team Profile Generator](./assets/images/googlebooks-app-demo-01.gif)](https://github.com/xndroli/Team-Profile-Generator/)
 
-- The URL of my deployed portfolio.
+[Link to Demo]()
 
-- The URL of my uniquely named GitHub repository, and professional README describing the project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Demo
+## 🏁 Getting Started <a name = "getting_started"></a>
 
-![Demo Video](https://github.com/xndroli/portfolio/blob/08a5547f461d045a18944aa7a713356879b2ea39/assets/images/portfolio_screenshot.png 'Generator Demo Video')
+Clone the repo by running:
 
-## Link to Application Demo
+`git clone https://github.com/xndroli/Team-Profile-Generator.git`
 
-[Link-to-Application-Demo](https://xndroli.github.io/horizon-code-refactor/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### 💾 Installation <a name = "installation"></a>
+
+Input basic project information in include in your package by running:
+
+`npm init`
+
+Install the package, and any packages that it depends on by running:
+
+`npm install`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Usage <a name="usage"></a>
+
+Run the following command at the root of your project:
+
+`node index.js`
+
+Follow the command line prompts to the end. Then check the dist folder for the generated index.html.
+
+If the index.html successfully generated, open it and hit:
+
+`Alt+L Alt+O`
+
+to open the generated HTML in your browser.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⛏️ Built With <a name = "built_with"></a>
+
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Mongoose.js](https://mongoosejs.com/) - Object Data Modeling
+- [Express.js](https://expressjs.com/) - Server Framework
+- [React.js](https://reactjs.org/) - Front End Library
+- [Node.js](https://nodejs.org/) - Server Environment
+
+- [GraphQL](https://graphql.org/) - Data Query and Manipulation
+- [Apollo Server](https://www.apollographql.com/) - GraphQL Server
+- [Heroku](https://www.heroku.com/) - Platform As A Service (PaaS)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@xndroli](https://github.com/xndroli)
+
+See also the list of [contributors](https://github.com/xndroli/Team-Profile-Generator/contributors) who participated in this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
-© 2022 xndroli. Confidential and Proprietary. All Rights Reserved.
+© 2022 xndroli. All Rights Reserved.
