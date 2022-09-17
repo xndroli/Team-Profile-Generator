@@ -22,6 +22,7 @@ This week, I'll build a Node.js command-line application that takes in informati
 Because this application is not deployed, I will also provide a link to a walkthrough video that demonstrates its functionality and all of the tests passing.
 
 [See Video Walkthrough](https://drive.google.com/file/d/1M9w1O2Ia2ZNcjwguLl9_GPGcLwlKz_v0/view)
+
 [See Live Generated Profile Example](https://xndroli.github.io/Team-Profile-Generator/dist/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
